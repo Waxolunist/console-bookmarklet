@@ -15,7 +15,14 @@
 #debug pre {
   white-space: pre-wrap;  
   word-wrap: break-word; 
+  color: black;
+  background-color: white;
+  padding: 0;
 }
 #debug pre code {
   display: block;
+  background-color: white;
+  margin: 0;
+  font-size: 10px;
+  font-family: Courier New;
 }
