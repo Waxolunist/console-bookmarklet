@@ -1,0 +1,21 @@
+.debug .ui-dialog .ui-dialog-titlebar {
+  padding: 0.1em;
+}
+.debug .ui-dialog .ui-dialog-titlebar-close {
+  width: 60px;
+}
+#debug {
+  overflow-y: scroll;
+}
+#debug .error { color: #FF0000; }
+#debug .warn { color: #FFBF00; }
+#debug .info { color: #0000FF; }
+#debug .debug { color: #00FF00; }
+#debug .log { color: #000000; }
+#debug pre {
+  white-space: pre-wrap;  
+  word-wrap: break-word; 
+}
+#debug pre code {
+  display: block;
+}
