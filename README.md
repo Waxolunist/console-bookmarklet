@@ -17,6 +17,10 @@ see [http://christian.sterzl.info/#blog/how-to-install-bookmarklets-in-ios](http
 There will probably a lot of issues especially on sites using already jquery or jquery ui.
 If you find bugs or issues plz let me know.
 
+# Development
+
+I don't have a master branch in this repository. The gh-pages branch is sufficient for this purpose. I added a small static node server to ease development. This server is mime type aware. You can start this server with _node server.js <port>_. Maybe this small server has some value to anyone.
+
 # Alternatives
 
 * *[Jupiter JS Console](https://code.google.com/p/jupiter-javascript-console/)* 
