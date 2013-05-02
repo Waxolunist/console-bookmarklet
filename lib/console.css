@@ -1,3 +1,7 @@
+#debug-wrapper {
+  position: absolute;
+}
+
 .debug .ui-dialog .ui-dialog-titlebar {
   padding: 0.1em;
 }
